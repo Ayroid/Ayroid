@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh Kushwah</h1>
 <h3 align="center">1st Year B.Tech Computer Science Student at UPES.</h3>
 
-- 🌱 I’m currently learning **Python, Data Structures & Algorithms**
+- 🌱 I’m currently learning **Python, Data Structures & Algorithms.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
