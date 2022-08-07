@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh Kushwah</h1>
-<h3 align="center">1st Year B.Tech Computer Science Student at UPES.</h3>
+<h3 align="center">2nd Year BTech Computer Science specialization in DevOps Student at UPES.</h3>
 
 - 🌱 I’m currently learning **Python, Data Structures & Algorithms.**
 
