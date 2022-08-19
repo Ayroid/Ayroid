@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh Kushwah</h1>
 <h3 align="center">2nd Year BTech Computer Science specialization in DevOps Student at UPES.</h3>
 
-- 🌱 I’m currently learning **Java, Web Development, Data Structures & Algorithms.**
+- 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
