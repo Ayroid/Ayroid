@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayroid&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 
-<img align="right" alt="Coding" width="350" style="border-radius:5px" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<img align="right" alt="Coding" width="390" style="border-radius:5px" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 - 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
 
