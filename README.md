@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Singh Kushwah</h1>
 <h3 align="center">2nd Year BTech Computer Science specialization in DevOps Student at UPES.</h3>
+<h3 align="center">Technical Core Committee at UPES Cloud Security Alliance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayroid&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 
