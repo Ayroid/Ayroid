@@ -24,3 +24,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayroid&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ayroid" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayroid&layout=compact&theme=tokyonight" alt="Ayroid" /></p>
+
+<p align="center">
+  <img src="https://github.com/Ayroid/Ayroid/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
