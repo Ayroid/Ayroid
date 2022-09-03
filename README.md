@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh Kushwah</h1>
 <h3 align="center">2nd Year BTech Computer Science specialization in DevOps Student at UPES.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayroid" alt="Ayroid" /></a> </p>
+
 - 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
 
 <h3 align="left">Connect with me:</h3>
