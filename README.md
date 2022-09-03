@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayroid&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ayroid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayroid&show_icons=true&locale=en" alt="Ayroid" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayroid&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ayroid" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayroid&" alt="Ayroid" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayroid&layout=compact&theme=tokyonight" alt="Ayroid" /></p>
