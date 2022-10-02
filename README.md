@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayroid&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Ayroid" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayroid&layout=compact&theme=midnight-purple" alt="Ayroid" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayroid&layout=compact&theme=midnight-purple" alt="Ayroid" width="425"/></p>
 
 [![@ayroid's Holopin board](https://holopin.io/api/user/board?user=ayroid)](https://holopin.io/@ayroid)
 
