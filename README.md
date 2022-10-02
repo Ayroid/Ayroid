@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Ayroid/Ayroid/blob/main/20221002_231734.png">
 
 - 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
-- ⚡ Interested in *Gaming & Open Source Contributions._*
+- ⚡ Interested in *Gaming & Open Source Contributions.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
