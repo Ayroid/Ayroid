@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
 - ⚡ Interested in *Gaming & Open Source Contributions.*
 - ❤️ Love creating *Small yet Interesting Projects!*
+- 📬 Contact me at *ayushsk0000@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
