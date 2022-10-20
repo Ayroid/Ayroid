@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Ayroid/Ayroid/blob/main/20221002_231734.png">
 
-- 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
+- 🌱 I’m currently learning *Java, Web Development & DSA.*
 - ⚡ Interested in *Gaming & Open Source Contributions.*
 - ❤️ Love creating *Small yet Interesting Projects!*
 - 📬 Contact me at *ayushsk0000@gmail.com*
