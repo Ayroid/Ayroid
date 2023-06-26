@@ -78,7 +78,7 @@
 
 <h2 align="center">Stats</h2>
 
-<p align="center"> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayroid&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Ayroid" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayroid&layout=compact&theme=midnight-purple" alt="Ayroid" width="495"/></p>
+<p align="center"> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayroid&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Ayroid" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayroid&layout=compact&theme=midnight-purple" alt="Ayroid" width="425"/></p>
 
 [![@ayroid's Holopin board](https://holopin.io/api/user/board?user=ayroid)](https://holopin.io/@ayroid)
 
