@@ -7,9 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayroid&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 
 <p align="center">
-🌱 I’m currently learning *Backend & some other stuff!*<br>
-⚡ Interested in *Gaming & Open Source Contributions.*<br>
-❤️ Love creating *Small yet Interesting Projects!*<br>
+⚡ Interested in *Full Stack, DevOps and System Design*<br>
 📬 Contact me at *ayushsk0000@gmail.com*<br>
 </p>
 <h2 align="center">Connect with me</h2>
