@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayroid&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 
 <p align="center">
-⚡ Interested in *Full Stack, DevOps and System Design*<br>
+⚡ Interested in <b>Full Stack, DevOps and System Design</b><br>
 📬 Contact me at *ayushsk0000@gmail.com*<br>
 </p>
 <h2 align="center">Connect with me</h2>
