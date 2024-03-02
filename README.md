@@ -13,8 +13,12 @@
 
 <p align="center">
   
-<a href="https://www.linkedin.com/in/ayush-singh-kushwah-0a42aa221/" target="_blank">
+<a href="https://www.linkedin.com/in/ayroid/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush singh kushwah" height="30" width="40"/>
+</a>
+
+<a href="https://twitter.com/ayroids" target="_blank">
+<img align="center" src="https://icons8.com/icon/YfCbGWCWcuar/twitterx" alt="ayush singh kushwah" height="30" width="40"/>
 </a>
 
 </p>
