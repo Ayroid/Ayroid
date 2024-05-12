@@ -75,6 +75,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
  </a>
 
+ <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+ </a>
+
  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
  </a>
@@ -97,6 +101,10 @@
 
  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+ </a>
+
+ <a href="https://grafana.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
  </a>
 
  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
