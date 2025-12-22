@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Ayroid/Ayroid/blob/main/20221019_014220.jpg)](https://Ayroid.io)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Ayush</h1>
-<h3 align="center">SWE | Life Long Learner | Wannabe Jacked Nerd</h3>
+<h3 align="center">SWE | Life Long Learner</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayroid&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 
