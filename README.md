@@ -20,6 +20,7 @@
 - 🏗️ **[Darch](https://github.com/ayroid/darch)** - Visual AWS architecture designer with automatic Terraform code generation
 - 💭 **[Cache](https://github.com/ayroid/cache)** - Lightweight app for storing ideas and thoughts with minimal & sunset-themed UI
 - 🚕 **[Parko](https://github.com/ayroid/PARKO-Frontend)** - Smart parking management system with real-time availability tracking
+- 🗃️ **[Vault](https://github.com/Ayroid/vault)** - Tracking and management CLI tool for React and NextJS components 
 
 ## GitHub Activity
 
