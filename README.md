@@ -1,161 +1,53 @@
-[![MasterHead](https://github.com/Ayroid/Ayroid/blob/main/20221019_014220.jpg)](https://Ayroid.io)
+# Hi, I'm Ayush 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Ayush</h1>
-<h3 align="center">SWE | Life Long Learner | Wannabe Jacked Nerd</h3>
+**23. Engineer** building innovative products with a focus on full-stack development, DevOps, and system design.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayroid&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-<p align="center">
-⚡ Working on <b>Full Stack, DevOps and System Design</b><br>
-📬 Contact me at *ayushsk0000@gmail.com*<br>
-</p>
-<h2 align="center">Connect with me</h2>
+> Currently converting web APIs from in-memory to PostgreSQL, learning Go, and building tools for entrepreneurs. Full-stack developer with a passion for system design and DevOps.
 
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/ayroid/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush singh kushwah" height="30" width="40""/>
-</a>
+## Current Projects
 
-<a href="https://twitter.com/ayroids" target="_blank">
-<img align="center" src="https://github.com/Ayroid/Ayroid/blob/main/icons8-twitterx-30.png" alt="ayush singh kushwah" height="30" width="30"/>
-</a>
+- 🎯 **[Validuct](https://github.com/ayroid/validuct)** - Evidence-based idea validation platform. Stop guessing, start validating.
+- 🏗️ **[Darch](https://github.com/ayroid/darch)** - Visual AWS architecture designer with automatic Terraform code generation
+- 💭 **[Cache](https://github.com/ayroid/cache)** - Lightweight app for storing ideas and thoughts with minimal & sunset-themed UI
+- 🚕 **[Parko](https://github.com/ayroid/PARKO-Frontend)** - Smart parking management system with real-time availability tracking
 
-</p>
+## GitHub Activity
 
-<h2 align="center">Languages & Tools</h2>
+![GitHub Contribution Graph](https://ghchart.rshah.org/ayroid)
 
-<p align="center" display="flex">
+## Tech Stack
 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
- </a>
+**Languages & Frameworks**
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express, Go, Python
 
- <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
- </a>
+**Databases & ORMs**
+- PostgreSQL, MongoDB, Redis, Prisma
 
- <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- </a>
- 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
- </a>
+**DevOps & Infrastructure**
+- **Cloud:** AWS (EC2, S3, Lambda, RDS, VPC)
+- **Containers:** Docker, Kubernetes
+- **CI/CD:** GitHub Actions
+- **IaC:** Terraform
+- **Monitoring:** Grafana, Prometheus
+- **Web Servers:** Nginx
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
- </a>
+**Tools & Development**
+- Git, Linux/Bash, Figma, Postman, NvChad
 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- </a>
+## Connect
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- </a>
-
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- </a>
-
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
- </a>
-
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
- </a>
-
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- </a>
-
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
- </a>
-
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- </a>
-
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="react" width="40" height="40"/>
- </a>
-
- <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
- </a>
-
-  <a href="https://zustand-demo.pmnd.rs" target="_blank" rel="noreferrer">
-  <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="redux" width="80" height="40"/>
- </a>
-
- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
- </a>
-
- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-   <img src="https://www.svgrepo.com/show/354210/prisma.svg" alt="prisma" width="40" height="40"/>
-  </a>  
-
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
- </a>
-
- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
- </a>
-
- <a href="https://grafana.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
- </a>
-
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
- </a>
-
- <a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
- </a>
-
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-
-</p>
-
-<h2 align="center">Stats</h2>
-
-<p align="center"> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayroid&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Ayroid" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayroid&layout=compact&theme=midnight-purple" alt="Ayroid" width="425"/></p>
-
-[![@ayroid's Holopin board](https://holopin.io/api/user/board?user=ayroid)](https://holopin.io/@ayroid)
-
-<p align="center">
-  <img src="https://github.com/ayroid/ayroid/raw/output/github-contribution-grid-snake.svg"
-alt="snake"></center>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayroid/)
+[![Twitter](https://img.shields.io/badge/-@ayroids-181717?style=flat-square&logo=X&logoColor=white)](https://twitter.com/ayroids)
+[![GitHub](https://img.shields.io/badge/-@ayroids-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayroid)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushsk0000@gmail.com)
